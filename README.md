@@ -85,29 +85,4 @@ Author
 Shahram
 Photonics engineer specializing in advanced optimization of compositional and structural photonics for optoelectronic devices.
 
-Adding This to Your GitHub Repository
-To add this README.md file to your GitHub repository:
 
-Create the README File Locally:
-
-In the ML2 directory, create a new file named README.md:
-sh
-Copy code
-echo "# ML_Cancer_Classification" > README.md
-Add Content:
-
-Copy and paste the detailed explanation above into README.md.
-Commit and Push to GitHub:
-
-Add the new README.md to Git:
-sh
-Copy code
-git add README.md
-Commit the file:
-sh
-Copy code
-git commit -m "Added detailed README file"
-Push to GitHub:
-sh
-Copy code
-git push -u origin main
