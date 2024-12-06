@@ -103,4 +103,3 @@ new_image.png             # Image to be predicted
 - **Global Maximum Normalization for Features**: All features (intensity, contrast, entropy, energy, and homogeneity) are now normalized using the global maximum values across the dataset to ensure consistent scaling.
 - **Error Handling**: Enhanced normalization function to handle edge cases, such as zero data range, preventing runtime warnings and errors.
 
-gi
